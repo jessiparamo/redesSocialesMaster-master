@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">redesSocialesMaster</string>
+    <string name="facebook_app_id">572877910718632</string>
+    <string name="fb_login_protocol_scheme">05b18287a6a1a628dc3386d554f6a717</string>
+
+    <string name="facebook_client_token">05b18287a6a1a628dc3386d554f6a717</string>
+
+
+</resources>
