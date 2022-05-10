@@ -148,11 +148,6 @@ public class MainActivity extends AppCompatActivity {
         graphRequest.executeAsync();
     }
 
-
-
-
-
-
     private void printKeyHash() {
         try {
             PackageInfo info=getPackageManager().getPackageInfo("com.example.redessocialesmasterr" ,
